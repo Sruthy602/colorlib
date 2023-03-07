@@ -1,0 +1,39 @@
+
+img{
+    width:100%;
+   
+   
+}
+
+ 
+.head-line{ width: 10%; 
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid rgb(196, 81, 4);
+}
+
+
+
+
+
+.bor-radius{ border-radius: 50%;
+width: 50px; height: 50px;}
+
+.content1{
+    background-color:rgb(245, 246, 247);
+    text-align:center;
+    
+}
+
+
+
+.content2{
+    background-color:rgb(223, 226, 228);;
+}
+
+.cards{
+    padding-top: 30px;
+}
+
+
